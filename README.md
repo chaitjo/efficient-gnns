@@ -1,6 +1,6 @@
-# Awesome Efficient Graph Neural Networks
+# 🚀 Awesome Efficient Graph Neural Networks
 
-This is a curated list of must-read papers on efficient Graph Neural Networks and scalable Graph Representation Learning for real-world applications. 
+This is a curated list of must-read papers on efficient **Graph Neural Networks** and scalable **Graph Representation Learning** for real-world applications. 
 Contributions for new papers and topics are welcome!
 
 ## Efficient and Scalable GNN Architectures
