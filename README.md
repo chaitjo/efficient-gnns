@@ -9,7 +9,7 @@ Contributions for new papers and topics are welcome!
 - [ICLR 2021 Workshop] [**Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions**](https://arxiv.org/abs/2104.01481). Shyam A. Tailor, Felix L. Opolka, Pietro Liò, Nicholas D. Lane.
 
 ## Neural Architecture Search for GNNs
-- [IJCAI 2020] [**GraphNAS: Graph Neural Architecture Search with Reinforcement Learning**](). Yang Gao, Hong Yang, Peng Zhang, Chuan Zhou, Yue Hu.
+- [IJCAI 2020] [**GraphNAS: Graph Neural Architecture Search with Reinforcement Learning**](https://arxiv.org/abs/1904.09981). Yang Gao, Hong Yang, Peng Zhang, Chuan Zhou, Yue Hu.
 - [IJCAI 2021] [**Automated Machine Learning on Graphs: A Survey**](https://arxiv.org/abs/2103.00742).
 Ziwei Zhang, Xin Wang, Wenwu Zhu.
 
