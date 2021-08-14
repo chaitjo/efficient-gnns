@@ -10,6 +10,12 @@ Contributions for new papers and topics are welcome!
 - [ICLR 2021] [**On Graph Neural Networks versus Graph-Augmented MLPs**](https://arxiv.org/pdf/2010.15116.pdf). Lei Chen, Zhengdao Chen, Joan Bruna.
 - [ICML 2021] [**Training Graph Neural Networks with 1000 Layers**](https://arxiv.org/abs/2106.07476). Guohao Li, Matthias Müller, Bernard Ghanem, Vladlen Koltun.
 
+<p class="center">
+    <img src="img/sgc.PNG" width="60%">
+    <br>
+    <em>Source: Simplifying Graph Convolutional Networks</em>
+</p>
+
 ## Neural Architecture Search for GNNs
 - [IJCAI 2020] [**GraphNAS: Graph Neural Architecture Search with Reinforcement Learning**](https://arxiv.org/abs/1904.09981). Yang Gao, Hong Yang, Peng Zhang, Chuan Zhou, Yue Hu.
 - [AAAI 2021 Workshop] [**Probabilistic Dual Network Architecture Search on Graphs**](https://arxiv.org/abs/2003.09676). Yiren Zhao, Duo Wang, Xitong Gao, Robert Mullins, Pietro Lio, Mateja Jamnik.
