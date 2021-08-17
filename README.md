@@ -31,6 +31,7 @@ Ziwei Zhang, Xin Wang, Wenwu Zhu.
 ## Large-scale Graphs and Sampling Techniques
 - [KDD 2019] [**Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks**](https://arxiv.org/abs/1905.07953). Wei-Lin Chiang, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, Cho-Jui Hsieh.
 - [ICLR 2020] [**GraphSAINT: Graph Sampling Based Inductive Learning Method**](https://arxiv.org/abs/1907.04931). Hanqing Zeng, Hongkuan Zhou, Ajitesh Srivastava, Rajgopal Kannan, Viktor Prasanna.
+- [CVPR 2020] [**L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks**](https://openaccess.thecvf.com/content_CVPR_2020/html/You_L2-GCN_Layer-Wise_and_Learned_Efficient_Training_of_Graph_Convolutional_Networks_CVPR_2020_paper.html). Yuning You, Tianlong Chen, Zhangyang Wang, Yang Shen.
 - [KDD 2020] [**Scaling Graph Neural Networks with Approximate PageRank**](https://arxiv.org/abs/2007.01570). Aleksandar Bojchevski, Johannes Klicpera, Bryan Perozzi, Amol Kapoor, Martin Blais, Benedek Rózemberczki, Michal Lukasik, Stephan Günnemann.
 - [ICML 2021] [**GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings**](https://arxiv.org/abs/2106.05609). Matthias Fey, Jan E. Lenssen, Frank Weichert, Jure Leskovec.
 - [ICLR 2021] [**Graph Traversal with Tensor Functionals: A Meta-Algorithm for Scalable Learning**](https://arxiv.org/abs/2102.04350). Elan Markowitz, Keshav Balasubramanian, Mehrnoosh Mirtaheri, Sami Abu-El-Haija, Bryan Perozzi, Greg Ver Steeg, Aram Galstyan.
