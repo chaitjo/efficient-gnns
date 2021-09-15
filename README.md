@@ -79,7 +79,7 @@ Ziwei Zhang, Xin Wang, Wenwu Zhu.
 ## Industrial Applications and Systems
 - [KDD 2018] [**Graph Convolutional Neural Networks for Web-Scale Recommender Systems**](https://arxiv.org/abs/1806.01973). Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.
 - [VLDB 2019] [**AliGraph: A Comprehensive Graph Neural Network Platform**](https://arxiv.org/abs/1902.08730). Rong Zhu, Kun Zhao, Hongxia Yang, Wei Lin, Chang Zhou, Baole Ai, Yong Li, Jingren Zhou.
-- [DeepMind Blog 2021] [**Traffic prediction with advanced Graph Neural Networks**](https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks). Oliver Lange, Luis Perez.
+- [CIKM 2021] [**ETA Prediction with Graph Neural Networks in Google Maps**](https://arxiv.org/abs/2108.11482). Austin Derrow-Pinion, Jennifer She, David Wong, Oliver Lange, Todd Hester, Luis Perez, Marc Nunkesser, Seongjae Lee, Xueying Guo, Brett Wiltshire, Peter W. Battaglia, Vishal Gupta, Ang Li, Zhongwen Xu, Alvaro Sanchez-Gonzalez, Yujia Li, Petar Veličković.
 
 <p class="center">
     <img src="img/pinsage.PNG" width="60%">
