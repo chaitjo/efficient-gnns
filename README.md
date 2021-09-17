@@ -76,6 +76,20 @@ Ziwei Zhang, Xin Wang, Wenwu Zhu.
     <em>Source: Computing Graph Neural Networks: A Survey from Algorithms to Accelerators</em>
 </p>
 
+## Code Frameworks, Libraries, and Datasets
+
+- [PyG] [**PyTorch Geometric**](https://www.pyg.org/).
+- [DGL] [**Deep Graph Library**](https://www.dgl.ai/).
+- [NeurIPS 2020] [**Open Graph Benchmark: Datasets for Machine Learning on Graphs**](https://arxiv.org/abs/2005.00687). Weihua Hu, Matthias Fey, Marinka Zitnik, Yuxiao Dong, Hongyu Ren, Bowen Liu, Michele Catasta, Jure Leskovec.
+- [KDD Cup 2021] [**OGB-LSC: A Large-Scale Challenge for Machine Learning on Graphs**](https://ogb.stanford.edu/kddcup2021/) Weihua Hu, Matthias Fey, Hongyu Ren, Maho Nakata, Yuxiao Dong, Jure Leskovec.
+- [CIKM 2021] [**PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models**](https://arxiv.org/abs/2104.07788). Benedek Rozemberczki, Paul Scherer, Yixuan He, George Panagopoulos, Alexander Riedel, Maria Astefanoaei, Oliver Kiss, Ferenc Beres, Guzmán López, Nicolas Collignon, Rik Sarkar.
+
+<p class="center">
+    <img src="img/ogb-lsc.PNG" width="60%">
+    <br>
+    <em>Source: OGB-LSC: A Large-Scale Challenge for Machine Learning on Graphs</em>
+</p>
+
 ## Industrial Applications and Systems
 - [KDD 2018] [**Graph Convolutional Neural Networks for Web-Scale Recommender Systems**](https://arxiv.org/abs/1806.01973). Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.
 - [VLDB 2019] [**AliGraph: A Comprehensive Graph Neural Network Platform**](https://arxiv.org/abs/1902.08730). Rong Zhu, Kun Zhao, Hongxia Yang, Wei Lin, Chang Zhou, Baole Ai, Yong Li, Jingren Zhou.
