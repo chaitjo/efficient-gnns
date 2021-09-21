@@ -93,6 +93,8 @@ Ziwei Zhang, Xin Wang, Wenwu Zhu.
 ## Industrial Applications and Systems
 - [KDD 2018] [**Graph Convolutional Neural Networks for Web-Scale Recommender Systems**](https://arxiv.org/abs/1806.01973). Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.
 - [VLDB 2019] [**AliGraph: A Comprehensive Graph Neural Network Platform**](https://arxiv.org/abs/1902.08730). Rong Zhu, Kun Zhao, Hongxia Yang, Wei Lin, Chang Zhou, Baole Ai, Yong Li, Jingren Zhou.
+- [KDD 2020] [**PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest**](https://arxiv.org/abs/2007.03634) Aditya Pal, Chantat Eksombatchai, Yitong Zhou, Bo Zhao, Charles Rosenberg, Jure Leskovec.
+- [CIKM 2020] [**P-Companion: A Principled Framework for Diversified Complementary Product Recommendation**](https://dl.acm.org/doi/10.1145/3340531.3412732) Junheng Hao, Tong Zhao, Jin Li, Xin Luna Dong, Christos Faloutsos, Yizhou Sun, and Wei Wang.
 - [CIKM 2021] [**ETA Prediction with Graph Neural Networks in Google Maps**](https://arxiv.org/abs/2108.11482). Austin Derrow-Pinion, Jennifer She, David Wong, Oliver Lange, Todd Hester, Luis Perez, Marc Nunkesser, Seongjae Lee, Xueying Guo, Brett Wiltshire, Peter W. Battaglia, Vishal Gupta, Ang Li, Zhongwen Xu, Alvaro Sanchez-Gonzalez, Yujia Li, Petar Veličković.
 
 <p class="center">
