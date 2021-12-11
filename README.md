@@ -58,11 +58,12 @@ Ziwei Zhang, Xin Wang, Wenwu Zhu.
 - [WWW 2021] [**Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework**](https://arxiv.org/abs/2103.02885). Cheng Yang, Jiawei Liu, Chuan Shi.
 - [IJCAI 2021] [**On Self-Distilling Graph Neural Network**](https://www.ijcai.org/proceedings/2021/314). Yuzhao Chen, Yatao Bian, Xi Xiao, Yu Rong, Tingyang Xu, Junzhou Huang.
 - [IJCAI 2021] [**Graph-Free Knowledge Distillation for Graph Neural Networks**](https://arxiv.org/abs/2105.07519). Xiang Deng, Zhongfei Zhang.
+- [ArXiv 2021] [**On Representation Knowledge Distillation for Graph Neural Networks**](https://arxiv.org/abs/2111.04964). Chaitanya K. Joshi, Fayao Liu, Xu Xun, Jie Lin, Chuan-Sheng Foo.
 
 <p class="center">
     <img src="img/distillation.PNG" width="60%">
     <br>
-    <em>Source: Distilling Knowledge from Graph Convolutional Networks</em>
+    <em>Source: On Representation Knowledge Distillation for Graph Neural Networks</em>
 </p>
 
 ## Hardware Acceleration of GNNs
