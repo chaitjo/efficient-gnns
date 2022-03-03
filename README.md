@@ -82,6 +82,9 @@ Ziwei Zhang, Xin Wang, Wenwu Zhu.
 
 - [PyG] [**PyTorch Geometric**](https://www.pyg.org/).
 - [DGL] [**Deep Graph Library**](https://www.dgl.ai/).
+- [Stellar Graphs] [**Stellar Graphs Machine Learning Library**](https://stellargraph.readthedocs.io/en/stable/index.html)
+- [Spektral] [**Library for Graph Deep Learning**](https://graphneural.network/).
+- [PyDGN] [**Python for Deep Graph Networks**](https://pydgn.readthedocs.io/en/latest/)
 - [NeurIPS 2020] [**Open Graph Benchmark: Datasets for Machine Learning on Graphs**](https://arxiv.org/abs/2005.00687). Weihua Hu, Matthias Fey, Marinka Zitnik, Yuxiao Dong, Hongyu Ren, Bowen Liu, Michele Catasta, Jure Leskovec.
 - [KDD Cup 2021] [**OGB-LSC: A Large-Scale Challenge for Machine Learning on Graphs**](https://ogb.stanford.edu/kddcup2021/) Weihua Hu, Matthias Fey, Hongyu Ren, Maho Nakata, Yuxiao Dong, Jure Leskovec.
 - [CIKM 2021] [**PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models**](https://arxiv.org/abs/2104.07788). Benedek Rozemberczki, Paul Scherer, Yixuan He, George Panagopoulos, Alexander Riedel, Maria Astefanoaei, Oliver Kiss, Ferenc Beres, Guzmán López, Nicolas Collignon, Rik Sarkar.
