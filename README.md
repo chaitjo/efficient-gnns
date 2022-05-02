@@ -3,6 +3,8 @@
 This is a curated list of must-read papers on efficient **Graph Neural Networks** and scalable **Graph Representation Learning** for real-world applications. 
 Contributions for new papers and topics are welcome!
 
+**Accompanying Blogpost**: [chaitjo.com/post/efficient-gnns](https://www.chaitjo.com/post/efficient-gnns/)
+
 ## Efficient and Scalable GNN Architectures
 - [ICML 2019] [**Simplifying Graph Convolutional Networks**](https://arxiv.org/abs/1902.07153). Felix Wu, Tianyi Zhang, Amauri Holanda de Souza Jr., Christopher Fifty, Tao Yu, Kilian Q. Weinberger.
 - [ICML 2020 Workshop] [**SIGN: Scalable Inception Graph Neural Networks**](https://arxiv.org/abs/2004.11198). Fabrizio Frasca, Emanuele Rossi, Davide Eynard, Ben Chamberlain, Michael Bronstein, Federico Monti.
