@@ -76,7 +76,7 @@ pip3 install -U ogb
   year={2022}
 }
 
-@article{joshi2022dlforrouting,
+@article{joshi2022efficientgnns,
   author = {Joshi, Chaitanya K.},
   title = {Recent Advances in Efficient and Scalable Graph Neural Networks},
   year = {2022},
